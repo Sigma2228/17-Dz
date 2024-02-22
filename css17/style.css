@@ -55,7 +55,7 @@ color: dodgerblue;
     color: dodgerblue;
 }
 .section-button {
-    background-image: url('Img(1).png');
+    background-image: url('/17 Photo/Img(1).png');
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
@@ -96,7 +96,7 @@ color: dodgerblue;
 .text1:first-child::before {
     content: '';
     display: block;
-    background-image: url("antenna1.png");
+    background-image: url("/17 Photo/antenna1.png");
     background-repeat: no-repeat;
     height: 100px;
     width: 100%;
@@ -107,7 +107,7 @@ color: dodgerblue;
 .text1:nth-child(2)::before {
     content: '';
     display: block;
-    background-image: url("clock1.png");
+    background-image: url("/17 Photo/clock1.png");
     background-repeat: no-repeat;
     height: 100px;
     width: 100%;
@@ -118,7 +118,7 @@ color: dodgerblue;
 .text1:nth-child(3)::before {
     content: '';
     display: block;
-    background-image: url("diagram1(1).png");
+    background-image: url("/17 Photo/diagram1(1).png");
     background-repeat: no-repeat;
     height: 100px;
     width: 100%;
@@ -130,7 +130,7 @@ color: dodgerblue;
 .text1:last-child::before {
     content: '';
     display: block;
-    background-image: url("astronaut1.png");
+    background-image: url("/17 Photo/astronaut1.png");
     background-repeat: no-repeat;
     height: 100px;
     width: 100%;
