@@ -84,8 +84,8 @@
        height: 38px;
        background: #F5F4FA;
        margin-left: 8px;
-       font-weight: 500;
        border: none;
+       font-weight: 500;
        border-radius: 3px;
        font-size: 16px;
     }
@@ -93,6 +93,7 @@
         color: white;
         background-color: dodgerblue;
         cursor: pointer;
+        box-shadow: 0 3px 5px 1px rgba(0, 0, 0, 0.25);
     }
     figure {
         background: #FFFFFF;
@@ -101,6 +102,10 @@
     }
     figure:first-child {
         box-shadow: 1px 4px 6px 0 #00000029;
+    }
+    figure:hover {
+        box-shadow: 1px 4px 6px 0 #00000029;
+        cursor: pointer;
     }
     .main-title {
         font-size: 18px;
